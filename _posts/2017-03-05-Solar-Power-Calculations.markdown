@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Solar Power Calculations"
 date:   2017-03-05 22:09:16 -0800

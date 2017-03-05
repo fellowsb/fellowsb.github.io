@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "LTE Basics Presentation"
 date:   2017-03-04 22:09:16 -0800

@@ -17,7 +17,7 @@ order: 4
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-	{% if post.imagePath %}<img src="assets/{{ post.imagePath }}" height="100">{% endif %}
+	{% if post.imagePath %}<img src="/assets/{{ post.imagePath }}" height="100">{% endif %}
       </li>
     {% endfor %}
   </ul>

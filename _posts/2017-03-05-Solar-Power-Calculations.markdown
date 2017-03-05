@@ -67,5 +67,5 @@ When designing a solar powered system, ensure that all of the loads and ineffici
 
 
 [sse]: https://eosweb.larc.nasa.gov/sse/
-[ac]: {{ site.baseurl }}/assets/ACpowercalcs.png “AC Power Calculation Headings”
-[dc]: {{ site.baseurl }}/assets/DCpowercalcs.png “DC Power Calculation Headings”
+[ac]: {{ site.baseurl }}/assets/ACpowercalcs.png
+[dc]: {{ site.baseurl }}/assets/DCpowercalcs.png

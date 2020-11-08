@@ -9,7 +9,7 @@
 title: Flagstaff Solutions
 email: contact@flagstaff.solutions
 description: > # this means to ignore newlines until "baseurl:"
-  Flagstaff Solutions provides system level communication analysis and solutions - bringing a wide range of communication system experience to your team or providing a second opionon to a proposed solution.
+  Flagstaff Solutions provides system level communication analysis and solutions - bringing communication system experience to your team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://flagstaff.solutions" # the base hostname & protocol for your site
 

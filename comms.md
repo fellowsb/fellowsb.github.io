@@ -9,7 +9,8 @@ Flagstaff Solutions is located in California's Inland Empire providing communica
 
 - Communication system architecture review
 - Independent cost estimate analysis
-- Remote communication site inspection
+- Communication site troubleshooting
+- Interference investigation
 
 We provide solutions and insight into the challenging world of communication systems.
 
